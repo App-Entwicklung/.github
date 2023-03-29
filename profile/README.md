@@ -6,7 +6,8 @@ Diese Organisation und die dazugehörigen Repos sind für die Entwicklung einer 
   
   
 <p align=center> 
--> <a href="https://frontend-lime-beta.vercel.app/#"> Current deployment </a> <- 
+-> <a href="https://frontend-sveltekit-sigma.vercel.app/"> Current sveltekit deployment </a> <-
+-> <a href="https://frontend-lime-beta.vercel.app/#"> Current flutter deployment </a> <- 
 </p>
 
 ## TOC
